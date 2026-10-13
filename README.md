@@ -2,6 +2,10 @@
 
 This repository contains the source code for the **UE24CS352A- Machine Learning** mini-project. The project focuses on building an Artificial Neural Network (ANN) to detect cybersecurity attacks using the NSL-KDD dataset.
 
+## Team Members:
+- P Saanvi -PES1UG24AM905
+- KP PreetikaSetty-PES1UG24AM144
+
 ## Project Structure
 - `preprocessing.ipynb`: Jupyter notebook for loading the dataset, performing one-hot encoding, feature scaling, and separating features and labels. 
 - `model_training.ipynb`: Jupyter notebook for defining, compiling, and training the Artificial Neural Network. It includes data loading, model compilation with class weights, early stopping, and model evaluation.
